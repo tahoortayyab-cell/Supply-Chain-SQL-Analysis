@@ -480,5 +480,9 @@ ORDER BY `LATE DELIVERY RISK` DESC;
 
 **SQL Project — Supply Chain Analysis**  
 Tool: MySQL Workbench  
-Dataset: DataCo Supply Chain Dataset  
-LinkedIn: [Tahoor Tayyab](https://www.linkedin.com/in/tahoor-tayyab/)
+
+## Dataset:
+Source: [DataCo Smart Supply Chain — Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+Download the CSV and import into MySQL as `datacosupplychaindataset`
+## LinkedIn:
+[Tahoor Tayyab](https://www.linkedin.com/in/tahoor-tayyab/)
