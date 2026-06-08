@@ -8,7 +8,7 @@ This project performs exploratory data analysis on a real-world supply chain dat
 - **Table:** datacosupplychaindataset  
 - **Tool Used:** MySQL Workbench  
 - **Total Queries:** 15  
-- **Dataset Size:** 6,118 rows  
+- **Dataset Size:** 6,118 rows 
 
 ---
 
