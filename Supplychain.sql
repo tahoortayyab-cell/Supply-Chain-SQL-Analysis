@@ -1,5 +1,6 @@
 Create database supplychain;
 USE supplychain;
+
 select * from datacosupplychaindataset;
 
 -- 1. Which market (Region) generates the highest total
