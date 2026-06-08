@@ -477,9 +477,7 @@ ORDER BY `LATE DELIVERY RISK` DESC;
 ---
 
 ## Author
-[Tahoor Tayyab]
-## LinkedIn:
-(https://www.linkedin.com/in/tahoor-tayyab/)
+Tahoor Tayyab
 **SQL Project — Supply Chain Analysis**  
 Tool: MySQL Workbench  
 
@@ -487,3 +485,5 @@ Tool: MySQL Workbench
 Source: [DataCo Smart Supply Chain — Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
 Download the CSV and import into MySQL as `datacosupplychaindataset`
 
+## LinkedIn:
+(https://www.linkedin.com/in/tahoor-tayyab/)
