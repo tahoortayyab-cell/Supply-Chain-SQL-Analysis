@@ -488,4 +488,4 @@ Source: [DataCo Smart Supply Chain — Kaggle](https://www.kaggle.com/datasets/s
 Download the CSV and import into MySQL as `datacosupplychaindataset`
 
 ## LinkedIn:
-(https://www.linkedin.com/in/tahoor-tayyab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tahoor-tayyab/)
